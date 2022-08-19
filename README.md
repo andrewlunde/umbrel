@@ -45,6 +45,9 @@ Alternatively you can install Umbrel on any Ubuntu or Debian based system with:
 ```bash
 curl -L https://umbrel.sh | bash
 ```
+```bash
+curl -L https://raw.githubusercontent.com/andrewlunde/umbrel/master/scripts/install | bash
+```
 
 ## Setting up a development environment
 
